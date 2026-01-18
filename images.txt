@@ -1,3 +1,2 @@
-nacos/nacos-server:v2.2.3
-ygqygq2/mysql-exec-sql:latest
-bitnami/mysql:8.0.32-debian-11-r8
+nacos/nacos-peer-finder-plugin:latest
+mysql:8.0.32-debian
