@@ -1,1 +1,1 @@
-nacos/nacos-server:v3.0.2
+goharbor/harbor-portal:v2.14.0
