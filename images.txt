@@ -1,1 +1,1 @@
-goharbor/harbor-portal:v2.14.0
+rancher/rancher-agent:v2.13.3
