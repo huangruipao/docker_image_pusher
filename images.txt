@@ -1,1 +1,1 @@
- quay.io/ceph/ceph:quincy
+quay.io/ceph/ceph:quincy
